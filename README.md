@@ -5,31 +5,31 @@
   </p>
 </div>
 <div>
-  <h1> What I learned while going through the Tech Elevator Part Time Online Program?</h1>
+  <h1> What I learned while going through the Tech Elevator Part-Time Online Program?</h1>
 </div>
 <div>
   <h2>Introduction to Programming</h2>
   <p>
-   I Was given an Introduction to fundamental programming concepts and best practices. I was shown basic syntax, variables, data types, control flow (loops and conditionals), functions, and debugging. I learned these skills using a multitude of tools including but not limited to JavaScript, basic text editors, and Integrated Development Environments.
+   I was given an introduction to fundamental programming concepts and best practices. I was shown basic syntax, variables, data types, control flow (loops and conditionals), functions, and debugging. I learned these skills using a multitude of tools including but not limited to JavaScript, basic text editors, and Integrated Development Environments.
   </p>
 </div> 
 <div>
   <h2>Web Development Fundamentals</h2>
   <p>
-    As a Full-Stack Software Developer I was taught Frontend and Backend Developement. This included using HTML & CSS to design and style web pages, using industry best practices for responsive design principles. Leveraging JavaScript Basics to enable DOM manipulation, event handling, and basic interactive elements. Along with a introduction to frameworks and libraries such as Vue.js for building modern use interfaces.
-    On the back end of things we dove into server-side programming, which included Node.js, RESTful API design, and basic serve management. Also included with this, we were taught database fundamentals. This gave me an understanding of relational databases such as SQL and other non-relational databases, database design, and CRUD operations.
+    As a Full-Stack Software Developer I was taught frontend and backend developement. This included using HTML & CSS to design and style web pages, using industry best practices for responsive design principles. Leveraging JavaScript basics to enable DOM manipulation, event handling, and basic interactive elements. Along with a introduction to frameworks and libraries such as Vue.js for building modern use interfaces.
+    On the back end of things I dove into server-side programming, which included Node.js, RESTful API design, and basic serve management. Also included with this, we were taught database fundamentals. This gave me an understanding of relational databases such as SQL and other non-relational databases, database design, and CRUD operations.
   </p>
 </div>
 <div>
   <h2>Full-Stack Development</h2>
   <p>
-    As we developed into a Full-Stack Developer we discovered Integration. The connection of the frontend and backend services is essential to handling data flow between client and server. We then tested our skills by building full-stack application, intergrating API's, and managing state with fron-end frmaeworks and backend systems. The curriculum is designed to reflect current industry standards and practices, ensuring that students are prepared for the job market.
+    As I developed into a Full-Stack Developer we discovered Integration. The connection of the frontend and backend services is essential to handling data flow between client and server. I then tested our skills by building full-stack application, intergrating API's, and managing state with fron-end frmaeworks and backend systems. The curriculum is designed to reflect current industry standards and practices, ensuring that students are prepared for the job market.
   </p>
 </div>
 <div>
   <h2>Best Practices in Software Enginerring</h2>
   <p>
-    I was given an introduction to Git, branching, merging and collaboration using GitHub and GitLab. This also inclded  writing and running software tests, to understand test-driven development and using frameworks. This helped me learn how to deploy strategies, understanding cloud platforms like AWS.
+    I was given an introduction to Git, branching, merging and collaboration using GitHub and GitLab. This also inclded  writing and running software tests, to understand test-driven development and using frameworks. This helped me learn how to deploy strategies and understand cloud platforms like AWS.
   </p>
 </div>
 <div>
