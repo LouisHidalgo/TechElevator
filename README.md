@@ -23,13 +23,13 @@
 <div>
   <h2>Full-Stack Development</h2>
   <p>
-    As I developed into a Full-Stack Developer we discovered Integration. The connection of the frontend and backend services is essential to handling data flow between client and server. I then tested our skills by building full-stack application, intergrating API's, and managing state with fron-end frmaeworks and backend systems. The curriculum is designed to reflect current industry standards and practices, ensuring that students are prepared for the job market.
+    As I developed into a Full-Stack Developer I discovered Integration. The connection of the frontend and backend services is essential to handling data flow between client and server. I then tested my skills by building full-stack application, intergrating API's, and managing state with fron-end frameworks and backend systems. The curriculum is designed to reflect current industry standards and practices, ensuring that students are prepared for the job market.
   </p>
 </div>
 <div>
   <h2>Best Practices in Software Enginerring</h2>
   <p>
-    I was given an introduction to Git, branching, merging and collaboration using GitHub and GitLab. This also inclded  writing and running software tests, to understand test-driven development and using frameworks. This helped me learn how to deploy strategies and understand cloud platforms like AWS.
+    I was given an introduction to Git, branching, merging and collaboration using GitHub and GitLab. This also included writing and running software tests, to understand test-driven development and using frameworks. This helped me learn how to deploy strategies and understand cloud platforms like AWS.
   </p>
 </div>
 <div>
