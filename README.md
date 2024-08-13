@@ -35,6 +35,6 @@
 <div>
   <h2>Career and Soft Skill Development</h2>
   <p>
-    Besides learning the technical aspects of software development, the Tech Elveator Program also spent time developing high qaulity soft skills. This included communication, teamwork, problem-solving, and along with other aspects of professional development.
+    Besides learning the technical aspects of software development, the Tech Elevator Program also helped improve my soft skills. This includes communication, teamwork, problem-solving, and aspects of professional development.
   </p>
 </div>
