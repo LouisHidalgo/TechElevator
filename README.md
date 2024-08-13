@@ -27,7 +27,7 @@
   </p>
 </div>
 <div>
-  <h2>Best Practices in Software Enginerring</h2>
+  <h2>Best Practices in Software Engineering</h2>
   <p>
     I was given an introduction to Git, branching, merging and collaboration using GitHub and GitLab. This also included writing and running software tests, to understand test-driven development and using frameworks. This helped me learn how to deploy strategies and understand cloud platforms like AWS.
   </p>
